@@ -9,5 +9,5 @@
 
 （3） [机器学习回顾篇（3）：线性回归.ipynb](https://www.cnblogs.com/chenhuabin/p/11222702.html)
 
-（3） [机器学习回顾篇（6）：KNN算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11622509.html)
+（4） [机器学习回顾篇（6）：KNN算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11622509.html)
 
