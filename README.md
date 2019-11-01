@@ -9,5 +9,13 @@
 
 （3） [机器学习回顾篇（3）：线性回归.ipynb](https://www.cnblogs.com/chenhuabin/p/11222702.html)
 
-（4） [机器学习回顾篇（6）：KNN算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11622509.html)
+（4） [机器学习回顾篇（4）：逻辑回归.ipynb](https://www.cnblogs.com/chenhuabin/p/11272820.html)
+
+（5） [机器学习回顾篇（5）：朴素贝叶斯算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11508673.html)
+
+（6） [机器学习回顾篇（6）：KNN算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11622509.html)
+
+（7） [机器学习回顾篇（7）：决策树算法（ID3、C4.5）.ipynb](https://www.cnblogs.com/chenhuabin/p/11717580.html)
+
+（8） [机器学习回顾篇（8）：CART决策树算法.ipynb](https://www.cnblogs.com/chenhuabin/p/11774926.html)
 
